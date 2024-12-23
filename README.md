@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mzuvukile Nqwiliso ! 
+# 👋 Hi there, I'm Muzuvukile Nqwiliso ! 
 
 I'm a passionate ICT graduate majoring in software development, with hands-on experience in programming languages like Java, Python, and JavaScript, as well as exposure to web and mobile technologies. I enjoy creating innovative solutions and contributing to impactful projects while continuously improving my skills.
 
