@@ -10,7 +10,7 @@ I'm a passionate ICT graduate majoring in software development, with hands-on ex
 - 💻 Programming Languages: **Java**, **Python**, **JavaScript**, **Dart**
 - 📱 Mobile: **Flutter**
 - ⚙️ Backend: **Node.js**, **Express**, **Firebase**
-- 🗃️ Database: **MongoDB**
+- 🗃️ Database: **MongoDB, MySQL**
 - 🛠️ Tools: **VS Code**, **IntelliJ IDEA**, **Android Studio**, **Git**
 
 ## 🛠️ Projects
