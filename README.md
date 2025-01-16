@@ -15,7 +15,7 @@ I'm a passionate ICT graduate majoring in software development, with hands-on ex
 
 ## 🛠️ Projects
 Here are some of the projects I’m currently working on:
-- [**Luxury Chair Marketplace**](https://github.com/Mzuvio/Sitewise) - A marketplace for high-end chair furniture.
+- [**SITEWISE**](https://github.com/Mzuvio/Sitewise) - A marketplace for high-end chair furniture.
 - [**Event App**](https://github.com/Mzuvio/Eventlink) - A event platform built with Flutter and Firebase.
 
 ## 📬 Let's Connect
